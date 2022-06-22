@@ -1,4 +1,4 @@
-<h1> XeroTwo </h1>
+ * XeroTwo
 -------------------
  - XeroTwo is Open-Source BugBounty Tool Help Bug Hunters To Find LFI,SQLi,XSS Vulnerability in WebSite
 
